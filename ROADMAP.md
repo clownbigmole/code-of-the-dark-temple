@@ -1,5 +1,5 @@
 **The project is to write and present a future history as a collection of stories from the community, 
-that paints a balanced, textured view of the future using the 'right to disconnect' or the manifesto 
+that paints a balanced, textured view of the future using the 'right to disconnect' or the [manifesto](https://github.com/clownbigmole/code-of-the-dark-temple/blob/master/CODE-OF-DARK-TEMPLE-MANIFESTO.md) 
 of the 'code of the dark temple' as a starting provocation and binding element.**
 
 ##Short term milestone: Get Project Going##
