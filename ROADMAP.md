@@ -17,3 +17,5 @@ of the 'code of the dark temple' as a starting provocation and binding element.*
 - Create a system such that story and graphics contributors can easily give the material for the exhibition
 - Execute first exhibition whether physical or virtual
 - Create a way for the community to keep adding stories and ‘artefacts’ as a ‘living archive’ 
+- Do a 'Theory of Change' exercise to understand who consumes this content and how
+- Outreach and creating an audience for the content
